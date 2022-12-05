@@ -1,5 +1,5 @@
 # BL-AI
 
-[ChatGPT](https://chat.openai.com/chat#)
+- OpenAI ChatGPT [ChatGPT](https://chat.openai.com/chat#)
 
-![data](https://github.com/boyuan-li/BL-AI/blob/master/ChatGPT.png)
+![data](https://github.com/boyuan-li/BL-AI/blob/main/ChatGPT.png)
