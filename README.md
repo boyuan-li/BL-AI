@@ -1,3 +1,3 @@
 # BL-AI
 
-(ChatGPT)[https://chat.openai.com/chat#]
+[ChatGPT](https://chat.openai.com/chat#)
