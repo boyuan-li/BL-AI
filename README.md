@@ -9,3 +9,4 @@
 - [Glarity](https://github.com/sparticleinc/chatgpt-google-summary-extension)
 - [TypingMind](https://www.typingmind.com/?ref=producthunt)
 - [Whisper](https://github.com/openai/whisper)
+- [LlamaIndex](https://github.com/jerryjliu/llama_index)
