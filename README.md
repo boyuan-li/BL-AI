@@ -11,3 +11,4 @@
 - [Whisper](https://github.com/openai/whisper)
 - [LlamaIndex](https://github.com/jerryjliu/llama_index)
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
