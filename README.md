@@ -12,3 +12,4 @@
 - [LlamaIndex](https://github.com/jerryjliu/llama_index)
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+- [GPT crawler](https://github.com/BuilderIO/gpt-crawler)
