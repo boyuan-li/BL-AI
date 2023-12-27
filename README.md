@@ -13,3 +13,4 @@
 - [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 - [GPT crawler](https://github.com/BuilderIO/gpt-crawler)
+- [AI tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
