@@ -2,7 +2,7 @@
 
 
 ![data](https://github.com/boyuan-li/BL-AI/blob/main/ChatGPT.png)
-![](https://github.com/boyuan-li/BL-AI/blob/main/Machine learning with human.png)
+![]([https://github.com/boyuan-li/BL-AI/blob/main/Machine learning with human.png](https://github.com/boyuan-li/BL-AI/blob/main/Machine%20learning%20with%20human.png))
 
 - [OpenAI ChatGPT](https://chat.openai.com/chat#)
 - [Code Squire](https://codesquire.ai/)
